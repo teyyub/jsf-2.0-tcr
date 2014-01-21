@@ -7,3 +7,5 @@
 
 # Eclipse project files #
 .project
+.classpath
+.settings/*
